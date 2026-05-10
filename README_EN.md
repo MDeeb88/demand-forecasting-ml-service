@@ -1,5 +1,30 @@
 # Demand Forecasting ML Service
 
+## Project Idea
+
+Modern businesses generate large amounts of historical sales and demand data, but many small and medium-sized companies still lack accessible forecasting tools that help estimate future demand and revenue.
+
+This project was designed as a simplified machine learning forecasting service that combines predictive analytics with an interactive business dashboard.
+
+The system allows users to:
+
+* forecast future product demand,
+* estimate future revenue,
+* analyze historical performance,
+* simulate business scenarios,
+* and interact with the forecasting system through a SaaS-style interface.
+
+Unlike a simple machine learning notebook, the project focuses on transforming the forecasting model into a usable software product by integrating:
+
+* API services,
+* user accounts,
+* billing simulation,
+* multilingual support,
+* Docker deployment,
+* and interactive analytics.
+
+The application was inspired by real-world forecasting platforms used in logistics, retail, and warehouse management systems.
+
 ## Overview
 
 Demand Forecasting ML Service is a machine learning web application designed to forecast product demand and estimate business revenue using historical product demand data.
